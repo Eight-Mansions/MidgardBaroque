@@ -21,7 +21,9 @@ You will also need a Xdelta patch utility.
 
 # Credits #
 Yuvi (Twitter, @YuviApp) - Hacking, Tool Creator, Image Editing, Game Translation, Playtest
+
 SnowyAria/ArcaneAria(Twitter, @SnowyAria) - Game Translation, Playtest
+
 Eight Mansions Team - Playtesting
 
 # Contact #
