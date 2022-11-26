@@ -12,11 +12,10 @@ The game is fully translated.
 The game runs on modern windows; you will need the Japanese 1.2 Version, along side the ISO mounted to run the game correctly.
 
 # Installation #
-Only the translated xdelta patch files are included; you will need an existing copy of Midgard and the patch 1.2 already applied.
+Only the translated xdelta patch files are included; you will need an existing copy of Midgard, either the Japaense 1.0,1.2 or Korean 1.0 version.
 You will also need a Xdelta patch utility.
 
 1. Extract downloaded xdelta patch files to any location
-
 2. Use XDELTA to patch the MIDGARD.exe file in the game directory.
 
 # Credits #
