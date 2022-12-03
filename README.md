@@ -17,6 +17,24 @@ You will also need a Xdelta patch utility.
 
 1. Extract downloaded xdelta patch files to any location
 2. Use XDELTA to patch the MIDGARD.exe file in the game directory.
+3. You will need to mount the Midgard-JP.iso for music to work.
+
+# Controls #
+Keybaord Controls:
+
+Arrow Keys to move
+Z =  Action/Attack
+X = Special/Magic Attack
+Shift = Sprint
+ESC = Menu
+Shift + Back arrow = Quick turn
+
+Camrea Controls:
+Numpad 8,4,6,2 = will rotate the camera
+Numpad 5 = Center camera
+
+Gamepad:
+The game does support game controllers, be sure to plug it in and setup via config.
 
 # Credits #
 Yuvi (Twitter, @YuviApp) - Hacking, Tool Creator, Image Editing, Game Translation, Playtest
