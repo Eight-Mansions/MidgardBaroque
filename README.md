@@ -22,19 +22,20 @@ You will also need a Xdelta patch utility.
 # Controls #
 Keybaord Controls:
 
-Arrow Keys to move
-Z =  Action/Attack
-X = Special/Magic Attack
-Shift = Sprint
-ESC = Menu
-Shift + Back arrow = Quick turn
+- Arrow Keys to move
+- Z =  Action/Attack
+- X = Special/Magic Attack
+- Shift = Sprint
+- ESC = Menu
+- Shift + Back arrow = Quick turn
 
-Camrea Controls:
-Numpad 8,4,6,2 = will rotate the camera
-Numpad 5 = Center camera
+Camera Controls:
+
+- Numpad 8,4,6,2 = will rotate the camera
+- Numpad 5 = Center camera
 
 Gamepad:
-The game does support game controllers, be sure to plug it in and setup via config.
+- The game does support game controllers, be sure to plug it in and setup via config.
 
 # Credits #
 Yuvi (Twitter, @YuviApp) - Hacking, Tool Creator, Image Editing, Game Translation, Playtest
