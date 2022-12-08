@@ -17,6 +17,7 @@ You will also need a Xdelta patch utility.
 1. Extract downloaded xdelta patch files to any location
 2. Use XDELTA to patch the MIDGARD.exe file in the game directory.
 3. You will need to mount the Midgard-JP.iso for music to work.
+4. Set midgard.exe to XP compatibility for videos to work.
 
 # Controls #
 Keyboard Controls:
