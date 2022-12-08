@@ -1,7 +1,6 @@
-# MidgardBaroque
-Midgard BAROQUE (1998) English Transltion v1.0 (November 2022)
+# Midgard BAROQUE (1998) English Translation (November 2022) #
 
-# Patch Notes #
+# V1.0 Patch Notes #
 The game is fully translated.
 *  Item Text
 *  System Text
@@ -12,7 +11,7 @@ The game is fully translated.
 The game runs on modern windows; you will need the Japanese 1.2 Version, along side the ISO mounted to run the game correctly.
 
 # Installation #
-Only the translated xdelta patch files are included; you will need an existing copy of Midgard, either the Japaense 1.0,1.2 or Korean 1.0 version.
+Only the translated xdelta patch files are included; you will need an existing copy of Midgard, either the Japaense 1.0,1.2 or Korean 1.0 versions.
 You will also need a Xdelta patch utility.
 
 1. Extract downloaded xdelta patch files to any location
@@ -20,7 +19,7 @@ You will also need a Xdelta patch utility.
 3. You will need to mount the Midgard-JP.iso for music to work.
 
 # Controls #
-Keybaord Controls:
+Keyboard Controls:
 
 - Arrow Keys to move
 - Z =  Action/Attack
@@ -35,7 +34,7 @@ Camera Controls:
 - Numpad 5 = Center camera
 
 Gamepad:
-- The game does support game controllers, be sure to plug it in and setup via config.
+- The game does support game controllers; be sure to plug it in and setup via config.
 
 # Credits #
 Yuvi (Twitter, @YuviApp) - Hacking, Tool Creator, Image Editing, Game Translation, Playtest
