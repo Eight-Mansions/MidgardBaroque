@@ -1,5 +1,8 @@
 # Midgard BAROQUE (1998) English Translation (November 2022) #
 
+# V1.1 Patch Notes #
+* Added support for translating the Taiwanese/Chinese version of the game.
+
 # V1.0 Patch Notes #
 The game is fully translated.
 *  Item Text
